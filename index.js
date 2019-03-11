@@ -12,3 +12,5 @@ console.log('master change');
 console.log('master change 2');
 console.log('master change');
 console.log('hs-1 feature');
+console.log('master change 3');
+console.log('master change 4');
